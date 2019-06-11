@@ -1,2 +1,7 @@
 # php_oop_user_auth
-User authentication with PHP(OOP), Jquery(Ajax), Bootstarap 3
+
+Author: Samig Museyibli
+
+Author URL: https://github.com/samigmuseyibli/
+
+Author Email: museyibli.98@gmail.com
