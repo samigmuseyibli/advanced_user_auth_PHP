@@ -1,4 +1,4 @@
-# php_oop_user_auth
+# Advanced User Authentication with Php, Jquery
 
 Author: Samig Museyibli
 
