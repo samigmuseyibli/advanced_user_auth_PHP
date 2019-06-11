@@ -1,4 +1,4 @@
-# Advanced User Authentication with Php, Jquery
+# Advanced User Authentication with Php, Jquery(Ajax)
 
 Author: Samig Museyibli
 
